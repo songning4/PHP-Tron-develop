@@ -24,4 +24,6 @@
 
 ## Contact me
 - For more source code, please contact
-- wechat: ixinjiei
+```
+ wechat: ixinjiei
+```
