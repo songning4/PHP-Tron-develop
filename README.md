@@ -27,7 +27,7 @@
 ```
  wechat: ixinjiei
 ```
-- This package come from
+- Help
 ```
 http://sc.hubwiz.com/codebag/tron-php-lib/
 ```
